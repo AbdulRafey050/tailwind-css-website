@@ -1,0 +1,42 @@
+/* <header className="flex justify-between items-center p-4 bg-[#232536] text-white max-w-screen-xl mx-auto">
+  <div>
+    <h2 className="font-bold text-xl md:text-2xl">Pakwheel</h2>
+  </div>
+
+  <ul className="hidden md:flex space-x-12 text-lg font-bold">
+    <li>
+      <Link href="/">Home</Link>
+    </li>
+    <li>
+      <Link href="/blog">Blog</Link>
+    </li>
+    <li>
+      <Link href="/contact">Contact</Link>
+    </li>
+    <li>
+      <Link href="/about">About</Link>
+    </li>
+  </ul>
+
+  <Sheet>
+    <SheetTrigger className="md:hidden">
+      <Menu className="h-6 w-6 text-black" />
+    </SheetTrigger>
+    <SheetContent side="right" className="w-3/4 max-w-[320px] bg-[#FAFAFA] text-black">
+      <ul className="mt-16 mx-auto flex flex-col items-center justify-center space-y-3 text-lg">
+        <li>
+          <Link href="/">Home</Link>
+        </li>
+        <li>
+          <Link href="/blog">Blog</Link>
+        </li>
+        <li>
+          <Link href="/contact">Contact</Link>
+        </li>
+        <li>
+          <Link href="/about">About</Link>
+        </li>
+      </ul>
+    </SheetContent>
+  </Sheet>
+</header> */
